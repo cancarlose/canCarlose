@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do canCarlose 😁
 Formado em ADS.
-Sou Analsita de Sistemas, desenvolvedor Web e estudante de Fullstack!
+Sou Analista de Sistemas, desenvolvedor Web e estudante de Fullstack!
 
  <div>
    <a href="https://github.com/cancarlose">
