@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil do canCarlose 😁
+Web developer e estudante de Fullstack
 
  <div>
    <a href="https://github.com/cancarlose">
