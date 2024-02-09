@@ -1,5 +1,5 @@
 # Bem-vindo(a) ao perfil do canCarlose 😁
-### Sou Analista de Sistemas, desenvolvedor Web e estudante de Fullstack!
+###  Formado em ADS, estudante para Desenvolvimento Fullstack!
 
  <div>
    <a href="https://github.com/cancarlose">
