@@ -1,6 +1,7 @@
 # Bem-vindo(a) ao perfil do canCarlose 😁
 ###  Formado em ADS, estudante para Desenvolvimento Fullstack!
 
+<meta charset = "utf-8>
  <div>
    <a href="https://github.com/cancarlose">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cancarlose&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
