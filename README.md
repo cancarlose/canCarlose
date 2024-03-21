@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do canCarlose 😁
+# Bem-vindo(a) ao perfil do Carlos Eduardo 😁
 ###  Formado em ADS, estudante para Desenvolvimento Fullstack!
 
  <div>
